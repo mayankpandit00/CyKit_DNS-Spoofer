@@ -27,5 +27,4 @@ Linux distro (preferably Kali Linux), Python 3, terminal or any IDE (vscode or p
    2. Type the following code : pip install -r requirements.txt (Python 2) or pip3 install -r requirements.txt (Python 3)
 
 5. Usage : 
-   1. sudo python mac_changer.py -i [interface] -m [new MAC address] 
-
+   1. sudo python dns_spoofer.py -m [Machine to execute command on (local/remote)] -s [Website to spoof] -d [Website to redirect to]
